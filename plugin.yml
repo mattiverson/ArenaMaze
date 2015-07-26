@@ -1,0 +1,22 @@
+name: ArenaMaze
+version: 1.0.0
+main: me.m1v3rpwn.maze.main.Main
+commands:
+  leave:
+    description: leaves your current Arena.
+    usage: /leave
+  kit:
+    description: shows the kits available to you, or sets your current kit.
+    usage: /kit [kit name]
+  namechange: 
+    description: changes the user's prefix, only available to people who have purchased something.
+    usage: /namechange [name] <prefix>
+  premallow:
+    description: not for you >:L
+    usage: /premallow <name> <help|hurt|rand> <number>
+  report:
+    description: Files a report that an admin will read.
+    usage: /report [message]
+  play:
+    description: plays a gamemode.
+    usage: /play <game type>
