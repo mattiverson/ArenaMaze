@@ -1,6 +1,6 @@
 name: ArenaMaze
 version: 1.0.0
-main: me.m1v3rpwn.maze.main.Main
+main: main.Main
 commands:
   leave:
     description: leaves your current Arena.
